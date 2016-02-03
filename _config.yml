@@ -13,7 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   small, small, small. Then he ate a cookie, coookie, cookie. Then
   he at a cookie and that is how I came to be.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+production_url : 'http://grobot.github.io/'
+BASE_PATH : 'http://grobot.github.io/'
+url: "http://grobot.github.io/" # the base hostname & protocol for your site
 twitter_username: grobot
 github_username:  grobot
 
