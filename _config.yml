@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: grobot
+email: gregory.j.allan@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Once there was a robot, robot, robot. Once there was a robot
+  small, small, small. Then he ate a cookie, coookie, cookie. Then
+  he at a cookie and that is how I came to be.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: grobot
+github_username:  grobot
+
+# Build settings
+markdown: kramdown
