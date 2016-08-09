@@ -11,11 +11,11 @@ email: gregory.j.allan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Once there was a robot, robot, robot. Once there was a robot
   small, small, small. Then he ate a cookie, coookie, cookie. Then
-  he at a cookie and that is how I came to be.
+  he ate a cookie and that is how I came to be.
 baseurl: "" # the subpath of your site, e.g. /blog
 production_url : 'http://grobot.github.io/'
 BASE_PATH : 'http://grobot.github.io/'
-url: "http://grobot.github.io/" # the base hostname & protocol for your site
+url: 'http://grobot.github.io/' # the base hostname & protocol for your site
 twitter_username: grobot
 github_username:  grobot
 
